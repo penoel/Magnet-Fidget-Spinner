@@ -1,0 +1,30 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Untitled Sketch
+*Date=22:37:42
+*CreatedBy=Fritzing 0.9.1b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;400 mil [THT];15.0358;-25.3223;90;Bottom;L1
+2;;reed_switch_plastic;2.33576;-26.5923;-90;Bottom;S1
+3;;;35.43;-46.5892;0;Bottom;TXT2
+4;;diode-1n4001;30.2758;-25.3223;-90;Bottom;D1
+5;;;27.5575;-46.3924;0;Bottom;TXT3
+6;;;2.33576;-48.1823;0;Bottom;Hole1
+7;;TO220 [THT];42.9758;-44.6263;0;Bottom;Q1
+8;;;48.0558;-2.46227;0;Bottom;Hole3
+9;;;48.0558;-48.1823;0;Bottom;Hole2
+10;3V;;31.5458;-48.1823;90;Bottom;VCC1
+11;;;24.6108;-2.10953;0;Bottom;TXT4
+12;;;24.8597;-13.8199;0;Bottom;TXT1
+13;;;24.7079;-7.90465;0;Top;IMG1
+14;;;2.33576;-2.46227;0;Bottom;Hole4
+15;220;THT;40.4358;-22.7823;0;Bottom;R1
